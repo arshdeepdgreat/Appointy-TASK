@@ -1,4 +1,4 @@
-# Appointy-TASK
+# Appointy-TASK (INSTAGRAM-API)
 This was the internship task for the appointy internship for exact details make use of the task.pdf
 
 ## Visualization
